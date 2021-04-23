@@ -24,15 +24,15 @@
       text-align: center;
     }
     
-    .message{
+    .message-wrapper{
       width: 50%;
     }
     .btn {
       width: 100%;
     }
     
-    .facebook {
-      margin-bottom: 10px;
+    .footer-contents{
+      width: 50%;
     }
     
     .top-wrapper {
