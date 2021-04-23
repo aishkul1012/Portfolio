@@ -24,6 +24,9 @@
       text-align: center;
     }
     
+    .message{
+      width: 50%;
+    }
     .btn {
       width: 100%;
     }
