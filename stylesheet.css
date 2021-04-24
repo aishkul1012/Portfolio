@@ -194,6 +194,7 @@
     text-align: center;
     background-color: aliceblue;
     height: fit-content;
+    display: flex;
   } 
 
   .footer-contents{ 
