@@ -167,6 +167,10 @@
     top: 7px;
     box-shadow: none;
   }
+
+  .connect{
+    float:right;
+  }
   
   footer img {
     width: 300px;
