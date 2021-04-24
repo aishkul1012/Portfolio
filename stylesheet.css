@@ -8,6 +8,9 @@
     
   }
 
+  .menu{
+    display:flex;
+  }
   
   a {
     text-decoration: none;
@@ -97,15 +100,6 @@
   
   /* Add CSS for menu-icon */
   
-    .menu-icon {
-    color: white;
-    float: right;
-    font-size: 25px;
-    padding: 21px 0;
-   
-    display:none;
-  
-  }
   
   
   .lesson-wrapper {
