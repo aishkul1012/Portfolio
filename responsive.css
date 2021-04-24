@@ -26,9 +26,9 @@
     
     .message{
       width:150px;
-      height: 50px;
+      
       display: flex;   
-      flex-flow:column nowrap;
+      flex-flow:column wrap;
       margin-bottom: 30px;
     }
     
